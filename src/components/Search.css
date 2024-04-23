@@ -1,0 +1,13 @@
+.search{
+    background-color: rgba(0 ,0 , 0, 0.5);
+    width: 879px;
+    height: 35px;
+    border-radius: 5px;
+    margin-left: 500px;
+   }
+p{
+    padding: 6px 0px 0px 15px;
+    font-size: 16px;
+    color:#f1c470;
+    font-family: "Itim", cursive;
+}

@@ -1,0 +1,20 @@
+.card{
+    width: 190px;
+    height: 100px;
+    border-radius: 3%;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #f1c470;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 1px 1px 8px 6px #d2a279 inset;
+}
+.cards{
+    display: flex;
+    padding: 10px 0;
+    gap: 40px;
+}
+.songscards{
+    margin-left: 500px;
+}

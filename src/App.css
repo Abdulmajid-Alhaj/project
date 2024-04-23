@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+}
+.App {
+  background-image: url('../public/background.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  margin-left: -80px;
+}
